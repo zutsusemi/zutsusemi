@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there :) 
+Welcome to zutsusemi's github page. This page collects some meaningful or fancy code repos when zutsusemi is learning codes or doing implementations. The repos can be splited to three folds:
+* Course Assignments
+* Median or Large Scale Projects
+* Forks of other people's interesting codes and Reproductions
 
 <!--
 **zutsusemi/zutsusemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
